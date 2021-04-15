@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ysu-events/static/css/main.f07921d2.chunk.css",
-    "main.js": "/ysu-events/static/js/main.be8d30d8.chunk.js",
-    "main.js.map": "/ysu-events/static/js/main.be8d30d8.chunk.js.map",
-    "runtime-main.js": "/ysu-events/static/js/runtime-main.9d3f07e7.js",
-    "runtime-main.js.map": "/ysu-events/static/js/runtime-main.9d3f07e7.js.map",
-    "static/js/2.7d6ab3f3.chunk.js": "/ysu-events/static/js/2.7d6ab3f3.chunk.js",
-    "static/js/2.7d6ab3f3.chunk.js.map": "/ysu-events/static/js/2.7d6ab3f3.chunk.js.map",
-    "static/js/3.565e4107.chunk.js": "/ysu-events/static/js/3.565e4107.chunk.js",
-    "static/js/3.565e4107.chunk.js.map": "/ysu-events/static/js/3.565e4107.chunk.js.map",
+    "main.js": "/ysu-events/static/js/main.b5af5b7a.chunk.js",
+    "main.js.map": "/ysu-events/static/js/main.b5af5b7a.chunk.js.map",
+    "runtime-main.js": "/ysu-events/static/js/runtime-main.262afd7b.js",
+    "runtime-main.js.map": "/ysu-events/static/js/runtime-main.262afd7b.js.map",
+    "static/js/2.d12e18de.chunk.js": "/ysu-events/static/js/2.d12e18de.chunk.js",
+    "static/js/2.d12e18de.chunk.js.map": "/ysu-events/static/js/2.d12e18de.chunk.js.map",
+    "static/js/3.fe970f6b.chunk.js": "/ysu-events/static/js/3.fe970f6b.chunk.js",
+    "static/js/3.fe970f6b.chunk.js.map": "/ysu-events/static/js/3.fe970f6b.chunk.js.map",
     "index.html": "/ysu-events/index.html",
     "static/css/main.f07921d2.chunk.css.map": "/ysu-events/static/css/main.f07921d2.chunk.css.map",
-    "static/js/2.7d6ab3f3.chunk.js.LICENSE.txt": "/ysu-events/static/js/2.7d6ab3f3.chunk.js.LICENSE.txt",
+    "static/js/2.d12e18de.chunk.js.LICENSE.txt": "/ysu-events/static/js/2.d12e18de.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ysu-events/static/media/Roboto.a8d6ac03.ttf",
     "static/media/header-logo.ccf30bae.png": "/ysu-events/static/media/header-logo.ccf30bae.png",
     "static/media/students.481bcf1a.mp4": "/ysu-events/static/media/students.481bcf1a.mp4",
     "static/media/ysu-banner-pic.1b4a2d08.png": "/ysu-events/static/media/ysu-banner-pic.1b4a2d08.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d3f07e7.js",
-    "static/js/2.7d6ab3f3.chunk.js",
+    "static/js/runtime-main.262afd7b.js",
+    "static/js/2.d12e18de.chunk.js",
     "static/css/main.f07921d2.chunk.css",
-    "static/js/main.be8d30d8.chunk.js"
+    "static/js/main.b5af5b7a.chunk.js"
   ]
 }
