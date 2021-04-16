@@ -1,0 +1,12 @@
+@import "./root.css";
+@import "./fonts.css";
+
+.app {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: url("../assets/images/ysu-bg-logo.png");
+  background-repeat: repeat;
+  background-color: #ffffff;
+  font-family: "Roboto";
+}

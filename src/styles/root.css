@@ -1,0 +1,15 @@
+:root {
+  --container-size: 1280px;
+
+  --primary-color: #b26703;
+
+  --header-padding: 4px 12px;
+  --header-bg-color: #08222f;
+
+  --footer-padding: 4px 12px;
+  --footer-color: #ffffff;
+  --footer-bg-color: #08222ffa;
+
+  --post-border-color: #111133;
+  --post-bg-color: #ccccccc4;
+}
