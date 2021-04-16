@@ -1,0 +1,13 @@
+.imageCards {
+  padding: 5px 16px;
+}
+
+.imageCards > * {
+  margin: 54px;
+}
+
+@media (max-width: 767.98px) {
+  .backgroundVideo {
+    height: 724px;
+  }
+}
