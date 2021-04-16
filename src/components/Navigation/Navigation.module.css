@@ -1,0 +1,52 @@
+.root {
+  height: 100%;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  height: inherit;
+  list-style: none;
+  list-style-type: none;
+}
+
+.list > li {
+  margin: 0 12px;
+}
+
+.link {
+  display: flex;
+  height: 100%;
+  padding: 0 14px;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.link:hover,
+.link:focus {
+  text-shadow: 2px 2px 4px #1d1d1d;
+}
+
+@media (max-width: 575.98px) {
+  .list {
+    flex-direction: column;
+    transform: rotate(180deg);
+  }
+
+  .list > li {
+    transform: rotate(-180deg);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .nav {
+    margin: 4px 0;
+  }
+
+  .list > li {
+    margin: 12px 0;
+  }
+}

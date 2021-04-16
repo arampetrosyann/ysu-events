@@ -1,0 +1,39 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 240px;
+  margin: 10px 0;
+  padding: 10px;
+  border: 2px solid #00000099;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 1px rgba(5, 6, 7, 0.8);
+  background-color: rgb(255, 249, 249);
+  overflow: hidden;
+}
+
+.user {
+  padding: 10px 11px;
+  border-right: 2px solid #8a929299;
+  border-bottom: 2px solid #8a929299;
+  font-size: 15px;
+}
+
+.text {
+  flex-grow: 1;
+  padding: 8px 4px;
+  font-size: 17px;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
+.but {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-left: 2px solid #8a929299;
+  border-top: 2px solid #8a929299;
+}

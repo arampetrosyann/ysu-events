@@ -1,0 +1,16 @@
+.root {
+  padding: 3px 9px;
+  filter: drop-shadow(3px 3px 6px #242424c0);
+  -webkit-filter: drop-shadow(3px 3px 6px #242424c0);
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  transition: 0.3s;
+}
+
+.root:hover {
+  transform: rotate(-9deg);
+  -ms-transform: rotate(-9deg);
+}

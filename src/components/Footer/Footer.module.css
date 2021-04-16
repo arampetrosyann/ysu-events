@@ -1,0 +1,17 @@
+.footer {
+  padding: var(--footer-padding);
+  color: var(--footer-color);
+  background-color: var(--footer-bg-color);
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 575.98px) {
+  .container {
+    flex-direction: column;
+  }
+}
