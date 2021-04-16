@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ysu-events/static/css/main.f07921d2.chunk.css",
-    "main.js": "/ysu-events/static/js/main.b5af5b7a.chunk.js",
-    "main.js.map": "/ysu-events/static/js/main.b5af5b7a.chunk.js.map",
+    "main.js": "/ysu-events/static/js/main.3b57b072.chunk.js",
+    "main.js.map": "/ysu-events/static/js/main.3b57b072.chunk.js.map",
     "runtime-main.js": "/ysu-events/static/js/runtime-main.262afd7b.js",
     "runtime-main.js.map": "/ysu-events/static/js/runtime-main.262afd7b.js.map",
-    "static/js/2.d12e18de.chunk.js": "/ysu-events/static/js/2.d12e18de.chunk.js",
-    "static/js/2.d12e18de.chunk.js.map": "/ysu-events/static/js/2.d12e18de.chunk.js.map",
+    "static/js/2.3119e83c.chunk.js": "/ysu-events/static/js/2.3119e83c.chunk.js",
+    "static/js/2.3119e83c.chunk.js.map": "/ysu-events/static/js/2.3119e83c.chunk.js.map",
     "static/js/3.fe970f6b.chunk.js": "/ysu-events/static/js/3.fe970f6b.chunk.js",
     "static/js/3.fe970f6b.chunk.js.map": "/ysu-events/static/js/3.fe970f6b.chunk.js.map",
     "index.html": "/ysu-events/index.html",
     "static/css/main.f07921d2.chunk.css.map": "/ysu-events/static/css/main.f07921d2.chunk.css.map",
-    "static/js/2.d12e18de.chunk.js.LICENSE.txt": "/ysu-events/static/js/2.d12e18de.chunk.js.LICENSE.txt",
+    "static/js/2.3119e83c.chunk.js.LICENSE.txt": "/ysu-events/static/js/2.3119e83c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ysu-events/static/media/Roboto.a8d6ac03.ttf",
     "static/media/header-logo.ccf30bae.png": "/ysu-events/static/media/header-logo.ccf30bae.png",
     "static/media/students.481bcf1a.mp4": "/ysu-events/static/media/students.481bcf1a.mp4",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.262afd7b.js",
-    "static/js/2.d12e18de.chunk.js",
+    "static/js/2.3119e83c.chunk.js",
     "static/css/main.f07921d2.chunk.css",
-    "static/js/main.b5af5b7a.chunk.js"
+    "static/js/main.3b57b072.chunk.js"
   ]
 }
